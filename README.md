@@ -1,34 +1,23 @@
-# LEO Martial Arts Academy
+# Panthers Sports Academy
 
-Static website adapted from the TNT MMA website for LEO Martial Arts Academy, Jaipur. The original hero background video, poster, and fallback image are retained.
+Static cinematic website for Panthers Sports Academy, Jaipur. Updated in this existing repository at the user's request. The original hero video and fallback are preserved.
 
-## Preview and deployment
+## Run and deploy
 
-No build or dependencies are required. Serve this repository root using any static web server:
-
-```sh
-python -m http.server 8000
-```
-
-Open http://localhost:8000. For static hosting, deploy the repository root.
+No build or dependencies are required. Serve this directory with a static HTTP server, for example `python -m http.server 8000`, and open http://localhost:8000. Deploy the repository root to any static host.
 
 ## Features
 
-- Responsive cinematic layout with reduced-motion support and motion pause control.
-- Original muted, looping boxing hero video.
-- Karate, self-defence, and martial arts sections using academy photos.
-- Six-photo gallery with a keyboard-accessible full-size dialog.
-- Name and training-interest enquiry form that prepares a WhatsApp message; the visitor sends it in WhatsApp.
-- Google Maps embed and directions links for Leo Academy in Jaipur.
+Transparent Panthers emblem, academy photos, six-image gallery with full-size viewing, karate and martial arts sections, name and training-interest WhatsApp enquiry form, Google Maps embed, directions, responsive layouts and reduced-motion support.
 
-## Business details and media sources
+The WhatsApp form prepares a message to +91 96494 76845; the visitor sends it in WhatsApp. No form submissions are stored by the website.
 
-Primary business source: [LEO Martial Arts Academy on Google Maps](https://www.google.com/maps/search/?api=1&query=LEO+Martial+Arts+Academy+Gate+no+1+Muktanand+Nagar+Durgapura+Jaipur), inspected 29 October 2026. The current Google listing provides +91 95211 69690 and Gate No. 1, Muktanand Nagar, Durgapura, Jaipur, Rajasthan 302018. The supplied business address adds Plot No. 281, opposite Pooja Tower, Gopalpura Bypass.
+## Sources
 
-Training categories were checked against [UrbanPro](https://www.urbanpro.com/jaipur/leo-marshal-art-academy-gopalpura-bypass/6715178). Current fees and session times are left for direct confirmation with the academy.
+Business address and photos: https://www.google.com/maps/search/?api=1&query=Panthers+Sports+Academy+B+389+Shanti+Nagar+Gurjar+Ki+Thadi+Jaipur (inspected 29 October 2026).
 
-Seven academy photographs in `images/` were downloaded from the supplied Google Maps listing. The gallery links back to that listing. Photographs remain the property of their respective contributors. The quoted Google review is attributed to Kaustubh Palekar.
+Address: B-389, Shanti Nagar Road, near Gurjar Ki Thadi, Jaipur, Rajasthan 302019. The Google listing has no phone number. The phone used is supported by the academy's published championship material at https://www.scribd.com/document/970579273/PANTHER-SPORTS-ACADEMY-20251220-152316-0000 and a matching directory entry at https://www.merajaipur.com/panthers-sports-academy/ . Fees and session times are left for direct confirmation.
 
-A text wordmark identifies Leo; the source academy's logo is not reused as Leo branding.
+Google review excerpt attributed to Pratibha Mishra. Academy photographs remain the property of their respective contributors. The user supplied the emblem; its black background was removed in images/panthers-logo.png, which has actual PNG transparency.
 
-Hero footage: [Man Doing Boxing by Antoni Shkraba / Pexels](https://www.pexels.com/video/man-doing-boxing-4438082/) under the [Pexels License](https://www.pexels.com/license/). Original hero fallback photography is served from Unsplash. Fonts are Barlow Condensed and Manrope via Google Fonts.
+Hero video: Man Doing Boxing by Antoni Shkraba / Pexels, https://www.pexels.com/video/man-doing-boxing-4438082/ under https://www.pexels.com/license/ . Hero fallback photos are served from Unsplash. Fonts are Barlow Condensed and Manrope through Google Fonts.
