@@ -7,7 +7,7 @@
 nav .brand-logo,footer .brand-logo{background:white;border-radius:3px}
 .training-note{font-size:12px;line-height:1.9;color:#aaa;margin:26px 0}
 .founder{display:grid;grid-template-columns:.7fr 1.3fr;gap:8%;align-items:center;border-top:1px solid #333;border-bottom:1px solid #333}
-.founder-photo{text-align:center}.founder-photo img{display:block;width:100%;max-width:360px;aspect-ratio:1;object-fit:contain;margin:auto;border-radius:50%;border:1px solid #ffb80066;filter:contrast(1.03)}
+.founder-photo{text-align:center}.founder-photo img{display:block;width:100%;height:auto;max-width:360px;aspect-ratio:1;object-fit:contain;margin:auto;border-radius:50%;border:1px solid #ffb80066;filter:contrast(1.03)}
 .founder-photo p{font-size:9px;letter-spacing:2px;color:#aaa;margin-top:22px}
 .founder h2{font-size:clamp(52px,6.5vw,90px)}.founder p{font-size:13px;line-height:1.9;color:#aaa}.founder p.credentials{color:var(--amber)}
 .achievements{padding:0;list-style:none;margin:28px 0;font-size:12px;line-height:1.9;color:#aaa}.achievements li{border-top:1px solid #333;padding:12px 0}.achievements strong{color:var(--paper)}
