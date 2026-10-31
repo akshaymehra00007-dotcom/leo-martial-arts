@@ -1,5 +1,7 @@
 # Panther’s Sports Academy
 
+Logo tagline update: `images/panther-logo-white-tagline.png` changes “TO CONTROL YOUR EMOTIONS” to white for visibility on the dark website. Created with the built-in image-editing tool using the existing transparent logo. Prompt: change only the bottom slogan from black to solid white; retain exact wording, typography, placement, emblem colours and transparency. Applied to header, footer and logo metadata; earlier assets retained.
+
 ## Photo gallery update — 31 October 2026
 
 Added all 37 newly supplied academy photographs alongside the six existing photos (43 total). Categories: Achievements, Academy, Students, Training, Women’s self-defence, and Coach & recognition. The gallery shows 12 at a time, with category filters, a Show More control, captions, and a full-photo viewer supporting previous/next and arrow keys.
