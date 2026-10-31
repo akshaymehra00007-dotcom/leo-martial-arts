@@ -1,0 +1,24 @@
+/* Brand accents preserve the established typography, composition and motion. */
+:root{--amber:#ffb800;--orange:#ff8a00}
+.cta,.enquiry-form .cta{color:var(--ink)}
+.ticker,.join{color:var(--ink);background:linear-gradient(110deg,var(--amber),var(--orange))}
+.join .textlink{border-color:#10101080}.join .secondary{color:var(--ink);border-color:#10101080}
+.philosophy h2 span,.step b{color:#a94b00}
+nav .brand-logo,footer .brand-logo{background:white;border-radius:3px}
+.training-note{font-size:12px;line-height:1.9;color:#aaa;margin:26px 0}
+.founder{display:grid;grid-template-columns:.7fr 1.3fr;gap:8%;align-items:center;border-top:1px solid #333;border-bottom:1px solid #333}
+.founder-photo{text-align:center}.founder-photo img{display:block;width:100%;max-width:360px;aspect-ratio:1;object-fit:contain;margin:auto;border-radius:50%;border:1px solid #ffb80066;filter:contrast(1.03)}
+.founder-photo p{font-size:9px;letter-spacing:2px;color:#aaa;margin-top:22px}
+.founder h2{font-size:clamp(52px,6.5vw,90px)}.founder p{font-size:13px;line-height:1.9;color:#aaa}.founder p.credentials{color:var(--amber)}
+.achievements{padding:0;list-style:none;margin:28px 0;font-size:12px;line-height:1.9;color:#aaa}.achievements li{border-top:1px solid #333;padding:12px 0}.achievements strong{color:var(--paper)}
+.details-grid{display:grid;grid-template-columns:1fr 1fr;gap:8%;margin-bottom:25px}.details-grid h3{font-size:35px}.schedule{margin:0;font-size:13px}.schedule>div{padding:18px 0;border-bottom:1px solid #333;display:flex;justify-content:space-between;gap:20px}.schedule dt{color:#aaa}.schedule dd{margin:0;text-align:right;white-space:nowrap}
+table{border-collapse:collapse;width:100%;font-size:13px}th,td{padding:16px 0;border-bottom:1px solid #333;text-align:left}th{font-weight:500}thead{color:#aaa;font-size:10px;text-transform:uppercase;letter-spacing:2px}td,th:last-child{text-align:right}td{color:var(--amber)}
+.impact strong{display:block;font:700 clamp(60px,8vw,110px)/1.1 'Barlow Condensed',Impact,sans-serif;margin-top:28px}.impact{max-width:340px}
+.gallery-filters{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:26px}.gallery-filters button{border:1px solid #555;padding:11px 15px;color:var(--paper);background:transparent;font-size:11px}.gallery-filters button[aria-pressed=true]{background:var(--amber);border-color:var(--amber);color:var(--ink)}.gallery-photo[hidden]{display:none}.founder-gallery-link{display:inline-block;margin-top:26px}
+[hidden]{display:none!important}
+@media(prefers-reduced-motion:reduce){.js-reveal .reveal{opacity:1;transform:none}}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--amber);outline-offset:5px}.join a:focus-visible{outline-color:var(--ink)}
+body:has(.lightbox[open]){overflow:hidden}footer a{overflow-wrap:anywhere}.footer-top>div{min-width:0}.footer-top{flex-wrap:wrap}.footer-bottom{flex-wrap:wrap}
+@media(max-width:760px){.founder,.details-grid{grid-template-columns:1fr;gap:32px}.founder-photo img{max-width:240px}.founder h2{font-size:57px}.details-grid h3{font-size:32px}.schedule>div{flex-wrap:wrap;gap:8px}.schedule dd{text-align:left}.hero-actions{flex-wrap:wrap}h1{font-size:clamp(76px,15vw,110px)}.hero-bottom{gap:15px;font-size:8px}.brand-name{min-width:0}}
+@media(max-width:360px){nav .brand-logo{width:78px;height:68px}nav .brand-name{font-size:19px}nav .brand-name small{font-size:9px}nav .nav-cta{font-size:7px;padding:12px 8px}.intro h2,.founder h2{font-size:50px}}

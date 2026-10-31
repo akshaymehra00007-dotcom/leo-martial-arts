@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leo-martial-arts.vercel.app/sitemap.xml
