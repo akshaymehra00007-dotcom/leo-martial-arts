@@ -1,5 +1,14 @@
 # Panther’s Sports Academy
 
+## Photo gallery update — 31 October 2026
+
+Added all 37 newly supplied academy photographs alongside the six existing photos (43 total). Categories: Achievements, Academy, Students, Training, Women’s self-defence, and Coach & recognition. The gallery shows 12 at a time, with category filters, a Show More control, captions, and a full-photo viewer supporting previous/next and arrow keys.
+
+Original JPEG bytes are preserved. `gallery-manifest.json` records source names, categories, exact crop rectangles, and display adjustments. Reversible CSS crops remove phone UI and unnecessary space without reconstructing people, text, medals, or event details. Five darker photographs receive a restrained brightness/contrast display adjustment. Captions describe visible events without inventing awards or identifying unnamed people.
+
+The supplied logo’s white background was removed with the built-in image-editing tool, saved as `images/panther-logo-transparent.png`, and applied in the navigation, footer and metadata. Prompt: remove only the surrounding white background; preserve the amber/orange shapes, black torii and martial artist, internal white lettering/brushstroke, exact text and original proportions; output real PNG transparency.
+
+
 ## Client update — 31 October 2026
 
 Preserves the existing cinematic page, hero video, typography, animated reveals, program cards, gallery viewer and WhatsApp enquiry flow. Adds the supplied amber/orange logo and brand colours, academy history (2012), programs, training batches, membership fees, women's self-defence programs and a compact founder profile for Shihan Hemant Kumar.

@@ -1,0 +1,690 @@
+[
+  {
+    "id": 1,
+    "file": "images/gallery/academy-01.jpeg",
+    "category": "achievements",
+    "caption": "Students with their competition medals",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.30 PM.jpeg",
+    "width": 720,
+    "height": 456,
+    "crop": [
+      0,
+      0,
+      720,
+      456
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 2,
+    "file": "images/gallery/academy-02.jpeg",
+    "category": "achievements",
+    "caption": "Students and instructors celebrating a team trophy",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.31 PM (1).jpeg",
+    "width": 2048,
+    "height": 1536,
+    "crop": [
+      0,
+      0,
+      2048,
+      1536
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 3,
+    "file": "images/gallery/academy-03.jpeg",
+    "category": "students",
+    "caption": "School students gathered outdoors",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.31 PM.jpeg",
+    "width": 1032,
+    "height": 581,
+    "crop": [
+      0,
+      150,
+      1032,
+      330
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 4,
+    "file": "images/gallery/academy-04.jpeg",
+    "category": "academy",
+    "caption": "Karate championship officials and participants",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.32 PM (1).jpeg",
+    "width": 800,
+    "height": 1600,
+    "crop": [
+      4,
+      477,
+      792,
+      593
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 5,
+    "file": "images/gallery/academy-05.jpeg",
+    "category": "students",
+    "caption": "Students assembled for an outdoor academy event",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.32 PM.jpeg",
+    "width": 1232,
+    "height": 816,
+    "crop": [
+      0,
+      200,
+      1232,
+      520
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 6,
+    "file": "images/gallery/academy-06.jpeg",
+    "category": "founder",
+    "caption": "Certificate presentation at a martial arts event",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.33 PM (1).jpeg",
+    "width": 960,
+    "height": 1280,
+    "crop": [
+      0,
+      140,
+      960,
+      1050
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 7,
+    "file": "images/gallery/academy-07.jpeg",
+    "category": "academy",
+    "caption": "Martial arts weapons, belts and protective equipment on display",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.33 PM.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      0,
+      0,
+      1600,
+      1200
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 8,
+    "file": "images/gallery/academy-08.jpeg",
+    "category": "students",
+    "caption": "Junior and senior karate students with their instructors",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.34 PM (1).jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      0,
+      270,
+      1600,
+      650
+    ],
+    "tone": "shadow"
+  },
+  {
+    "id": 9,
+    "file": "images/gallery/academy-09.jpeg",
+    "category": "achievements",
+    "caption": "Karate students and coaches with team trophies",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.34 PM (2).jpeg",
+    "width": 1600,
+    "height": 1204,
+    "crop": [
+      0,
+      0,
+      1600,
+      1204
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 10,
+    "file": "images/gallery/academy-10.jpeg",
+    "category": "students",
+    "caption": "School students and karate trainees together",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.34 PM.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      0,
+      300,
+      1600,
+      900
+    ],
+    "tone": "shadow"
+  },
+  {
+    "id": 11,
+    "file": "images/gallery/academy-11.jpeg",
+    "category": "academy",
+    "caption": "Academy students celebrating Holi together",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.35 PM (1).jpeg",
+    "width": 1152,
+    "height": 864,
+    "crop": [
+      0,
+      0,
+      1152,
+      864
+    ],
+    "tone": "shadow"
+  },
+  {
+    "id": 12,
+    "file": "images/gallery/academy-12.jpeg",
+    "category": "academy",
+    "caption": "Officials and participants at a karate gathering",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.35 PM (2).jpeg",
+    "width": 800,
+    "height": 1600,
+    "crop": [
+      4,
+      590,
+      792,
+      368
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 13,
+    "file": "images/gallery/academy-13.jpeg",
+    "category": "students",
+    "caption": "Students with their karate grading certificates",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.35 PM.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      100,
+      280,
+      1450,
+      700
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 14,
+    "file": "images/gallery/academy-14.jpeg",
+    "category": "selfdefence",
+    "caption": "Martial arts team at a school outreach event",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.38 PM.jpeg",
+    "width": 1600,
+    "height": 1204,
+    "crop": [
+      0,
+      0,
+      1600,
+      1204
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 15,
+    "file": "images/gallery/academy-15.jpeg",
+    "category": "selfdefence",
+    "caption": "Girls participating in a self-defence seminar",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.39 PM.jpeg",
+    "width": 1600,
+    "height": 1204,
+    "crop": [
+      0,
+      0,
+      1600,
+      1204
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 16,
+    "file": "images/gallery/academy-16.jpeg",
+    "category": "academy",
+    "caption": "Students gathered for an outdoor academy camp",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.40 PM (1).jpeg",
+    "width": 1152,
+    "height": 864,
+    "crop": [
+      0,
+      210,
+      1152,
+      500
+    ],
+    "tone": "shadow"
+  },
+  {
+    "id": 17,
+    "file": "images/gallery/academy-17.jpeg",
+    "category": "training",
+    "caption": "Students practising flexibility and stretching outdoors",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.40 PM.jpeg",
+    "width": 800,
+    "height": 1600,
+    "crop": [
+      4,
+      575,
+      792,
+      397
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 18,
+    "file": "images/gallery/academy-18.jpeg",
+    "category": "academy",
+    "caption": "Karate officials and instructors at a championship",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.41 PM (1).jpeg",
+    "width": 1152,
+    "height": 864,
+    "crop": [
+      0,
+      0,
+      1152,
+      864
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 19,
+    "file": "images/gallery/academy-19.jpeg",
+    "category": "founder",
+    "caption": "Instructor recognition at a Mitsuya-Kai karate championship",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.41 PM.jpeg",
+    "width": 800,
+    "height": 1600,
+    "crop": [
+      0,
+      506,
+      800,
+      534
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 20,
+    "file": "images/gallery/academy-20.jpeg",
+    "category": "achievements",
+    "caption": "Team trophy presentation at a karate championship",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.42 PM.jpeg",
+    "width": 800,
+    "height": 1600,
+    "crop": [
+      4,
+      477,
+      792,
+      594
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 21,
+    "file": "images/gallery/academy-21.jpeg",
+    "category": "founder",
+    "caption": "Coaches and officials at a karate event",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.43 PM (1).jpeg",
+    "width": 800,
+    "height": 1600,
+    "crop": [
+      0,
+      240,
+      800,
+      1067
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 22,
+    "file": "images/gallery/academy-22.jpeg",
+    "category": "achievements",
+    "caption": "Students celebrating medals, trophies and certificates",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.43 PM.jpeg",
+    "width": 1600,
+    "height": 1204,
+    "crop": [
+      0,
+      0,
+      1600,
+      1204
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 23,
+    "file": "images/gallery/academy-23.jpeg",
+    "category": "achievements",
+    "caption": "Students and instructors with their championship awards",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.44 PM.jpeg",
+    "width": 1280,
+    "height": 960,
+    "crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 24,
+    "file": "images/gallery/academy-24.jpeg",
+    "category": "achievements",
+    "caption": "Martial arts participants with medals and certificates",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.45 PM (1).jpeg",
+    "width": 1280,
+    "height": 960,
+    "crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 25,
+    "file": "images/gallery/academy-25.jpeg",
+    "category": "academy",
+    "caption": "Karate championship participants and officials",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.45 PM.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      0,
+      0,
+      1600,
+      1200
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 26,
+    "file": "images/gallery/academy-26.jpeg",
+    "category": "students",
+    "caption": "Students and families at a karate belt grading exam",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.46 PM (1).jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      0,
+      280,
+      1600,
+      760
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 27,
+    "file": "images/gallery/academy-27.jpeg",
+    "category": "academy",
+    "caption": "Students and officials assembled in a championship hall",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.46 PM.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      0,
+      0,
+      1600,
+      1200
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 28,
+    "file": "images/gallery/academy-28.jpeg",
+    "category": "academy",
+    "caption": "Karate officials seated beside the competition area",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.47 PM (1).jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      0,
+      0,
+      1600,
+      1200
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 29,
+    "file": "images/gallery/academy-29.jpeg",
+    "category": "students",
+    "caption": "Academy karate students with their instructors",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.47 PM.jpeg",
+    "width": 1600,
+    "height": 1204,
+    "crop": [
+      0,
+      220,
+      1600,
+      760
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 30,
+    "file": "images/gallery/academy-30.jpeg",
+    "category": "students",
+    "caption": "Outdoor karate student group with instructors",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.48 PM.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      0,
+      310,
+      1600,
+      650
+    ],
+    "tone": "shadow"
+  },
+  {
+    "id": 31,
+    "file": "images/gallery/academy-31.jpeg",
+    "category": "selfdefence",
+    "caption": "Practical self-defence demonstration for schoolgirls",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.49 PM (1).jpeg",
+    "width": 1920,
+    "height": 1080,
+    "crop": [
+      250,
+      200,
+      1200,
+      800
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 32,
+    "file": "images/gallery/academy-32.jpeg",
+    "category": "founder",
+    "caption": "Instructor felicitation at a karate event",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.49 PM.jpeg",
+    "width": 864,
+    "height": 1152,
+    "crop": [
+      80,
+      60,
+      780,
+      800
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 33,
+    "file": "images/gallery/academy-33.jpeg",
+    "category": "founder",
+    "caption": "Senior martial artists and instructors together",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.50 PM (1).jpeg",
+    "width": 1280,
+    "height": 960,
+    "crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 34,
+    "file": "images/gallery/academy-34.jpeg",
+    "category": "founder",
+    "caption": "Karate officials and referees at a championship",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.50 PM.jpeg",
+    "width": 1599,
+    "height": 1200,
+    "crop": [
+      0,
+      240,
+      1599,
+      780
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 35,
+    "file": "images/gallery/academy-35.jpeg",
+    "category": "founder",
+    "caption": "Recognition award presentation to karate instructors",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.51 PM (1).jpeg",
+    "width": 1600,
+    "height": 800,
+    "crop": [
+      168,
+      54,
+      1157,
+      746
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 36,
+    "file": "images/gallery/academy-36.jpeg",
+    "category": "achievements",
+    "caption": "Academy team celebrating trophies and individual awards",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.51 PM.jpeg",
+    "width": 1280,
+    "height": 960,
+    "crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 37,
+    "file": "images/gallery/academy-37.jpeg",
+    "category": "students",
+    "caption": "Karate students and coaches at an outdoor gathering",
+    "source": "WhatsApp Image 2026-10-31 at 1.03.52 PM.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "crop": [
+      180,
+      220,
+      1420,
+      830
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": 38,
+    "file": "images/panthers-4.jpg",
+    "category": "students",
+    "caption": "Karate students with certificates",
+    "width": 1200,
+    "height": 900,
+    "crop": [
+      0,
+      0,
+      1200,
+      900
+    ],
+    "tone": "natural",
+    "source": "Existing academy listing photo"
+  },
+  {
+    "id": 39,
+    "file": "images/panthers-2.jpg",
+    "category": "training",
+    "caption": "Karate technique demonstration",
+    "width": 1200,
+    "height": 675,
+    "crop": [
+      0,
+      0,
+      1200,
+      675
+    ],
+    "tone": "natural",
+    "source": "Existing academy listing photo"
+  },
+  {
+    "id": 40,
+    "file": "images/panthers-5.jpg",
+    "category": "training",
+    "caption": "Outdoor karate technique practice",
+    "width": 1200,
+    "height": 900,
+    "crop": [
+      0,
+      0,
+      1200,
+      900
+    ],
+    "tone": "natural",
+    "source": "Existing academy listing photo"
+  },
+  {
+    "id": 41,
+    "file": "images/panthers-1.jpg",
+    "category": "training",
+    "caption": "Students in an outdoor karate session",
+    "width": 1200,
+    "height": 900,
+    "crop": [
+      0,
+      0,
+      1200,
+      900
+    ],
+    "tone": "natural",
+    "source": "Existing academy listing photo"
+  },
+  {
+    "id": 42,
+    "file": "images/panthers-3.jpg",
+    "category": "academy",
+    "caption": "National karate championship gathering",
+    "width": 720,
+    "height": 475,
+    "crop": [
+      0,
+      0,
+      720,
+      475
+    ],
+    "tone": "natural",
+    "source": "Existing academy listing photo"
+  },
+  {
+    "id": 43,
+    "file": "images/panthers-6.jpg",
+    "category": "academy",
+    "caption": "Karate event participants and officials",
+    "width": 1200,
+    "height": 900,
+    "crop": [
+      0,
+      0,
+      1200,
+      900
+    ],
+    "tone": "natural",
+    "source": "Existing academy listing photo"
+  }
+]

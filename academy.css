@@ -4,7 +4,7 @@
 .ticker,.join{color:var(--ink);background:linear-gradient(110deg,var(--amber),var(--orange))}
 .join .textlink{border-color:#10101080}.join .secondary{color:var(--ink);border-color:#10101080}
 .philosophy h2 span,.step b{color:#a94b00}
-nav .brand-logo,footer .brand-logo{background:white;border-radius:3px}
+nav .brand-logo,footer .brand-logo{background:transparent;border-radius:0;filter:drop-shadow(0 1px 0 #ffffff70)}
 .training-note{font-size:12px;line-height:1.9;color:#aaa;margin:26px 0}
 .founder{display:grid;grid-template-columns:.7fr 1.3fr;gap:8%;align-items:center;border-top:1px solid #333;border-bottom:1px solid #333}
 .founder-photo{text-align:center}.founder-photo img{display:block;width:100%;height:auto;max-width:360px;aspect-ratio:1;object-fit:contain;margin:auto;border-radius:50%;border:1px solid #ffb80066;filter:contrast(1.03)}
@@ -22,3 +22,18 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var
 body:has(.lightbox[open]){overflow:hidden}footer a{overflow-wrap:anywhere}.footer-top>div{min-width:0}.footer-top{flex-wrap:wrap}.footer-bottom{flex-wrap:wrap}
 @media(max-width:760px){.founder,.details-grid{grid-template-columns:1fr;gap:32px}.founder-photo img{max-width:240px}.founder h2{font-size:57px}.women-program h2{font-size:clamp(48px,15vw,65px)}.details-grid h3{font-size:32px}.schedule>div{flex-wrap:wrap;gap:8px}.schedule dd{text-align:left}.hero-actions{flex-wrap:wrap}h1{font-size:clamp(76px,15vw,110px)}.hero-bottom{gap:15px;font-size:8px}.brand-name{min-width:0}}
 @media(max-width:360px){nav .brand-logo{width:78px;height:68px}nav .brand-name{font-size:19px}nav .brand-name small{font-size:9px}nav .nav-cta{font-size:7px;padding:12px 8px}.intro h2,.founder h2{font-size:50px}}
+/* Reversible crops retain original photographs and avoid reconstructing faces. */
+.gallery-photo .photo-wrap{aspect-ratio:4/3;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#171717}
+.photo-crop{position:relative;aspect-ratio:var(--ratio);overflow:hidden;width:100%;flex-shrink:0}
+.gallery-photo .photo-crop{width:min(100%,calc(100% * var(--ratio) * .75))}
+.photo-crop img,.gallery-photo .photo-crop img,.lightbox .photo-crop img{position:absolute;display:block;left:var(--left,0);top:var(--top,0);width:var(--source-scale,100%);height:auto;max-width:none;max-height:none;aspect-ratio:auto;object-fit:initial;filter:var(--tone,none);transform:none}
+.gallery-photo:hover .photo-crop{outline:1px solid #ffb80055}
+.gallery-photo span small{display:block;font-size:11px;letter-spacing:0;line-height:1.6;color:#aaa;margin-top:9px}
+.gallery-photo{align-self:start}.gallery-more{display:block;margin:30px auto}.gallery-status{margin:0 0 20px}
+.lightbox{padding:46px 18px 18px;max-height:95svh;max-width:95vw;overflow:auto}
+.lightbox-stage{width:min(85vw,1100px,calc(65svh * var(--ratio)),calc((100svh - 180px) * var(--ratio)));margin:auto}
+.lightbox-caption{font-size:12px;line-height:1.6;margin:16px 0;text-align:center;max-width:80vw}
+.lightbox-controls{display:flex;align-items:center;justify-content:space-between;gap:18px}
+.lightbox .lightbox-controls button{position:static;border:1px solid #555;font:600 10px Manrope,Arial,sans-serif;padding:12px;color:var(--paper);background:#202020;min-height:40px}
+.photo-position{font-size:10px;color:#aaa;white-space:nowrap}
+@media(max-width:400px){.lightbox{padding-left:10px;padding-right:10px}.lightbox-caption{font-size:11px}.lightbox-controls{gap:8px}.lightbox .lightbox-controls button{padding:10px 8px;font-size:9px}}
