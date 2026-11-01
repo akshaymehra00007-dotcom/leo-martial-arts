@@ -1,11 +1,5 @@
 # Panther’s Sports Academy
 
-## Mobile and performance fixes — 1 November 2026
-
-Hide decorative arrow symbols on mobile while keeping text labels and photo navigation controls. Restore section navigation through an accessible mobile menu, contain horizontal decoration overflow, enlarge touch targets and prevent iOS input zoom. The gallery retains focus after its final Show More action and closes only when the actual backdrop is clicked.
-
-Responsive hero images, font preconnections, smaller logo/portrait derivatives and deferred scripts reduce initial loading. Original image files remain available. Decorative video loads only on desktop without reduced motion, data saving or a very slow connection, and pauses offscreen or in a hidden tab. Enquiries validate the name and training selection, then open WhatsApp in the same tab to avoid popup blocking; visitors still send the message themselves. Canonical, social, structured-data and sitemap URLs use https://www.panthersportacademy.in/.
-
 Logo tagline update: `images/panther-logo-white-tagline.png` changes “TO CONTROL YOUR EMOTIONS” to white for visibility on the dark website. Created with the built-in image-editing tool using the existing transparent logo. Prompt: change only the bottom slogan from black to solid white; retain exact wording, typography, placement, emblem colours and transparency. Applied to header, footer and logo metadata; earlier assets retained.
 
 ## Photo gallery update — 31 October 2026
