@@ -22,7 +22,12 @@ filters.forEach(button => button.addEventListener('click', () => {
   shownCount = 12;
   updateGallery();
 }));
-morePhotos.addEventListener('click', () => { shownCount += 12; updateGallery(); });
+morePhotos.addEventListener('click', () => {
+  const firstNewPhoto = selectedPhotos[shownCount];
+  shownCount += 12;
+  updateGallery();
+  if (morePhotos.hidden) firstNewPhoto?.focus({preventScroll: true});
+});
 
 function showPhoto(index) {
   activePhoto = (index + selectedPhotos.length) % selectedPhotos.length;
@@ -41,6 +46,7 @@ galleryPhotos.forEach(button => button.addEventListener('click', () => {
   openingButton = button;
   showPhoto(selectedPhotos.indexOf(button));
   photoDialog.showModal();
+  photoDialog.scrollTop = 0;
 }));
 photoDialog.querySelector('.lightbox-close').addEventListener('click', () => photoDialog.close());
 photoDialog.querySelector('.photo-prev').addEventListener('click', () => showPhoto(activePhoto - 1));
@@ -51,6 +57,9 @@ photoDialog.addEventListener('keydown', event => {
     showPhoto(activePhoto + (event.key === 'ArrowRight' ? 1 : -1));
   }
 });
-photoDialog.addEventListener('click', event => { if (event.target === photoDialog) photoDialog.close(); });
+photoDialog.addEventListener('click', event => {
+  const bounds = photoDialog.getBoundingClientRect();
+  if (event.target === photoDialog && (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom)) photoDialog.close();
+});
 photoDialog.addEventListener('close', () => openingButton?.focus({preventScroll:true}));
 updateGallery();
