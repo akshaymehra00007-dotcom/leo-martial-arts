@@ -37,3 +37,7 @@ body:has(.lightbox[open]){overflow:hidden}footer a{overflow-wrap:anywhere}.foote
 .lightbox .lightbox-controls button{position:static;border:1px solid #555;font:600 10px Manrope,Arial,sans-serif;padding:12px;color:var(--paper);background:#202020;min-height:40px}
 .photo-position{font-size:10px;color:#aaa;white-space:nowrap}
 @media(max-width:400px){.lightbox{padding-left:10px;padding-right:10px}.lightbox-caption{font-size:11px}.lightbox-controls{gap:8px}.lightbox .lightbox-controls button{padding:10px 8px;font-size:9px}}
+
+/* Hide decorative arrow symbols on phones; preserve desktop presentation. */
+.mobile-arrow{display:contents!important}
+@media(max-width:760px){.mobile-arrow,.card .arrow{display:none!important}}
