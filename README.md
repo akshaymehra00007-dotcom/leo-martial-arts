@@ -1,3 +1,11 @@
+## Academy moments update — 3 November 2026
+
+Added all 40 supplied academy photographs in their original JPEG format (3.64 MB total), preserving people, colours and image proportions. The new Earned Together section features belt presentation, student and family photographs, plus the supplied academy video with user-controlled playback and no automatic download. The existing gallery now contains 83 photographs, with Belt ceremony and Student moments categories. Featured links select the matching gallery category; the existing full-photo viewer and pagination remain available. The community section now features a supplied green-belt group photograph.
+
+The supplied registration fee receipt is not published because it contains personal and payment-related details. No registration or certification claim is inferred from it.
+
+Validation: all 98 local image/video/script references resolve; gallery category and Show More behavior pass focused checks; JavaScript syntax and Git whitespace checks pass. Browser visual QA was unavailable because the computer-use tool could not reliably determine the active browser URL.
+
 # Panther’s Sports Academy
 
 Logo tagline update: `images/panther-logo-white-tagline.png` changes “TO CONTROL YOUR EMOTIONS” to white for visibility on the dark website. Created with the built-in image-editing tool using the existing transparent logo. Prompt: change only the bottom slogan from black to solid white; retain exact wording, typography, placement, emblem colours and transparency. Applied to header, footer and logo metadata; earlier assets retained.
@@ -44,3 +52,4 @@ Earlier listing address (superseded by the client's update above): B-389, Shanti
 Google review excerpt attributed to Pratibha Mishra. Academy photographs remain the property of their respective contributors. The user supplied the emblem; its black background was removed in images/panthers-logo.png, which has actual PNG transparency.
 
 Hero video: Man Doing Boxing by Antoni Shkraba / Pexels, https://www.pexels.com/video/man-doing-boxing-4438082/ under https://www.pexels.com/license/ . Hero fallback photos are served from Unsplash. Fonts are Barlow Condensed and Manrope through Google Fonts.
+

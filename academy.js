@@ -54,3 +54,9 @@ photoDialog.addEventListener('keydown', event => {
 photoDialog.addEventListener('click', event => { if (event.target === photoDialog) photoDialog.close(); });
 photoDialog.addEventListener('close', () => openingButton?.focus({preventScroll:true}));
 updateGallery();
+
+// Featured moments open the matching category in the existing gallery.
+document.querySelectorAll('[data-gallery-category]').forEach(link => link.addEventListener('click', () => {
+  const filter = filters.find(button => button.dataset.filter === link.dataset.galleryCategory);
+  filter?.click();
+}));

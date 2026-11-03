@@ -686,5 +686,645 @@
     ],
     "tone": "natural",
     "source": "Existing academy listing photo"
+  },
+  {
+    "id": "november-1",
+    "file": "images/gallery/november-2026/moment-01.jpg",
+    "category": "student-moments",
+    "caption": "Orange-belt student and academy instructor",
+    "source": "codex-clipboard-70bb7a57-6809-468c-94bc-359a8f717bd6.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-2",
+    "file": "images/gallery/november-2026/moment-02.jpg",
+    "category": "student-moments",
+    "caption": "Young karate student posing with an instructor",
+    "source": "codex-clipboard-4acd51ac-abd8-4673-b7dd-907a20487b18.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-3",
+    "file": "images/gallery/november-2026/moment-03.jpg",
+    "category": "student-moments",
+    "caption": "Orange-belt students demonstrating a karate block",
+    "source": "codex-clipboard-cd99adb6-e102-461e-9311-d22316f1fdae.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-4",
+    "file": "images/gallery/november-2026/moment-04.jpg",
+    "category": "student-moments",
+    "caption": "Students and instructor demonstrating karate stances",
+    "source": "codex-clipboard-fb6c56c0-6862-4ff2-af32-24d94e9aa399.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-5",
+    "file": "images/gallery/november-2026/moment-05.jpg",
+    "category": "student-moments",
+    "caption": "Karate student and instructor at the academy",
+    "source": "codex-clipboard-e027599b-7d75-4a24-8f95-db7bcfc95922.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-6",
+    "file": "images/gallery/november-2026/moment-06.jpg",
+    "category": "student-moments",
+    "caption": "Orange-belt student practising a ready stance",
+    "source": "codex-clipboard-1020552b-4b6c-4b85-9358-a6f38e1ea1a2.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-7",
+    "file": "images/gallery/november-2026/moment-07.jpg",
+    "category": "student-moments",
+    "caption": "Green-belt students demonstrating a balanced stance",
+    "source": "codex-clipboard-30676536-5437-48c0-8b0e-6353176377e0.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-8",
+    "file": "images/gallery/november-2026/moment-08.jpg",
+    "category": "student-moments",
+    "caption": "Green-belt students and instructor posing together",
+    "source": "codex-clipboard-12bdf976-de05-4ed7-afb5-8b12b20d5d7a.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-9",
+    "file": "images/gallery/november-2026/moment-09.jpg",
+    "category": "student-moments",
+    "caption": "Yellow-belt student with an academy instructor",
+    "source": "codex-clipboard-ff9db039-9e51-4982-9837-99648162e0f6.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-10",
+    "file": "images/gallery/november-2026/moment-10.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 10",
+    "source": "codex-clipboard-d67c93ee-7414-48b0-8690-3acf8402a7c8.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-11",
+    "file": "images/gallery/november-2026/moment-11.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 11",
+    "source": "codex-clipboard-3c90d186-9837-4b09-b7d3-2b7cac6a6ea2.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-12",
+    "file": "images/gallery/november-2026/moment-12.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 12",
+    "source": "codex-clipboard-f7202213-84c8-4814-84f7-bce1fbd1aacc.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-13",
+    "file": "images/gallery/november-2026/moment-13.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 13",
+    "source": "codex-clipboard-f7776416-6e9d-4582-b8bf-acf6d0744c09.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-14",
+    "file": "images/gallery/november-2026/moment-14.jpg",
+    "category": "student-moments",
+    "caption": "A student celebrating a belt milestone with family",
+    "source": "codex-clipboard-77c071f9-ed8a-4125-9b7c-2c957cdb9bc4.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-15",
+    "file": "images/gallery/november-2026/moment-15.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 15",
+    "source": "codex-clipboard-1ffb28a2-ae37-494c-b237-4a9c8f8ee889.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-16",
+    "file": "images/gallery/november-2026/moment-16.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 16",
+    "source": "codex-clipboard-0c4eb9f8-fa62-417e-86ba-5c99ad0c702b.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-17",
+    "file": "images/gallery/november-2026/moment-17.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 17",
+    "source": "codex-clipboard-0a8e80c3-3aee-483f-b4dc-ed5c60b3e6e1.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-18",
+    "file": "images/gallery/november-2026/moment-18.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 18",
+    "source": "codex-clipboard-b26830c9-3266-4517-b068-80fb03f0a069.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-19",
+    "file": "images/gallery/november-2026/moment-19.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 19",
+    "source": "codex-clipboard-e9fcd32a-3be7-4f9c-ae82-904d2cb84904.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-20",
+    "file": "images/gallery/november-2026/moment-20.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 20",
+    "source": "codex-clipboard-85772a48-ae07-4254-8e68-44c3ffeba189.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-21",
+    "file": "images/gallery/november-2026/moment-21.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 21",
+    "source": "codex-clipboard-1c5a20db-68a1-46b7-a4cd-2cd121887672.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-22",
+    "file": "images/gallery/november-2026/moment-22.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 22",
+    "source": "codex-clipboard-6918bdf8-f75e-4483-822d-40db3b1a6b57.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-23",
+    "file": "images/gallery/november-2026/moment-23.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 23",
+    "source": "codex-clipboard-5a34b2f5-d4ba-4293-9456-f0f025a716b8.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-24",
+    "file": "images/gallery/november-2026/moment-24.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 24",
+    "source": "codex-clipboard-0543d609-aebb-4799-85a1-60026ecae278.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-25",
+    "file": "images/gallery/november-2026/moment-25.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 25",
+    "source": "codex-clipboard-6ef1be13-5f7a-4ff6-b6c3-8b0f57da9ff7.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-26",
+    "file": "images/gallery/november-2026/moment-26.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 26",
+    "source": "codex-clipboard-22ee0ec4-bec0-4a93-868b-ad6ecfe47566.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-27",
+    "file": "images/gallery/november-2026/moment-27.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 27",
+    "source": "codex-clipboard-72ad0759-65b6-4e2c-b9a1-8e7f740bebfe.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-28",
+    "file": "images/gallery/november-2026/moment-28.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 28",
+    "source": "codex-clipboard-4ce71b27-f4d4-4291-aec2-ccece848855a.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-29",
+    "file": "images/gallery/november-2026/moment-29.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 29",
+    "source": "codex-clipboard-b993af2c-da16-4dc9-88b6-8d33a36faf42.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-30",
+    "file": "images/gallery/november-2026/moment-30.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 30",
+    "source": "codex-clipboard-48cd192d-3f1d-4490-a9a2-6d30479bf7b2.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-31",
+    "file": "images/gallery/november-2026/moment-31.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 31",
+    "source": "codex-clipboard-07c41ef2-1c38-4a0d-850f-2568b7311e83.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-32",
+    "file": "images/gallery/november-2026/moment-32.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 32",
+    "source": "codex-clipboard-8441c457-cd62-4083-a49e-135ea1001a51.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-33",
+    "file": "images/gallery/november-2026/moment-33.jpg",
+    "category": "belt-ceremony",
+    "caption": "A student receiving a brown belt at the academy",
+    "source": "codex-clipboard-34789f02-ed74-4ffb-953f-a62e8d0c679f.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-34",
+    "file": "images/gallery/november-2026/moment-34.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 34",
+    "source": "codex-clipboard-550baea5-316d-4a67-ba94-a985716407db.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-35",
+    "file": "images/gallery/november-2026/moment-35.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 35",
+    "source": "codex-clipboard-8b801d38-f2e0-40c2-9a97-5b745ab8c005.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-36",
+    "file": "images/gallery/november-2026/moment-36.jpg",
+    "category": "student-moments",
+    "caption": "Student and instructor celebrating an orange-belt milestone",
+    "source": "codex-clipboard-dd584542-4c06-4e29-aab3-767a2e9b63e0.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-37",
+    "file": "images/gallery/november-2026/moment-37.jpg",
+    "category": "belt-ceremony",
+    "caption": "Student receiving a belt during the academy ceremony · moment 37",
+    "source": "codex-clipboard-c4439a43-9b0e-42c5-ac39-27955af29910.jpg",
+    "width": 1599,
+    "height": 906,
+    "crop": [
+      0,
+      0,
+      1599,
+      906
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-38",
+    "file": "images/gallery/november-2026/moment-38.jpg",
+    "category": "student-moments",
+    "caption": "Orange-belt student demonstrating a karate stance",
+    "source": "codex-clipboard-8c6e9fcf-305a-40bc-9b05-233ba63ba82f.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-39",
+    "file": "images/gallery/november-2026/moment-39.jpg",
+    "category": "student-moments",
+    "caption": "Green-belt students and instructor practising together",
+    "source": "codex-clipboard-d1fc8ab5-f249-4936-a238-da9a7860392b.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
+  },
+  {
+    "id": "november-40",
+    "file": "images/gallery/november-2026/moment-40.jpg",
+    "category": "student-moments",
+    "caption": "Orange-belt student and instructor at the dojo",
+    "source": "codex-clipboard-4a89e7ec-4fdc-44a5-bbe3-22da82022923.jpg",
+    "width": 720,
+    "height": 1280,
+    "crop": [
+      0,
+      0,
+      720,
+      1280
+    ],
+    "tone": "natural"
   }
 ]
