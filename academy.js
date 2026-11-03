@@ -51,7 +51,7 @@ photoDialog.addEventListener('keydown', event => {
     showPhoto(activePhoto + (event.key === 'ArrowRight' ? 1 : -1));
   }
 });
-photoDialog.addEventListener('click', event => { if (event.target === photoDialog) photoDialog.close(); });
+photoDialog.addEventListener('click', event => { const rect = photoDialog.getBoundingClientRect(); if (event.target === photoDialog && (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom)) photoDialog.close(); });
 photoDialog.addEventListener('close', () => openingButton?.focus({preventScroll:true}));
 updateGallery();
 
@@ -60,3 +60,4 @@ document.querySelectorAll('[data-gallery-category]').forEach(link => link.addEve
   const filter = filters.find(button => button.dataset.filter === link.dataset.galleryCategory);
   filter?.click();
 }));
+
